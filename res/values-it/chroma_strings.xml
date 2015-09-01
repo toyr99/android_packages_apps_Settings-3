@@ -319,6 +319,7 @@
     <string name="notification_light_default_value">Predefinito</string>
     <string name="notification_light_missed_call_title">Chiamata persa</string>
     <string name="notification_light_voicemail_title">Messaggio vocale</string>
+    <string name="notification_light_screen_on">LED con schermo acceso</string>
 
     <!-- Nav bar customization -->
     <string name="navigation_bar_buttons">Pulsanti &amp; disposizione</string>
